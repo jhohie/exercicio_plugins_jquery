@@ -1,0 +1,58 @@
+
+
+h1 {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.container {
+    margin-bottom: 16px;
+    margin-left: 50%;
+
+}
+
+
+
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    max-width: 250px;
+
+}
+
+.form-campo input {
+
+    width: 100%;
+    max-width: 242px;
+
+}
+
+button {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+button {
+    margin-top: 8px;
+        max-width: 120px;
+        width: 100%;
+    }
+
+
+
